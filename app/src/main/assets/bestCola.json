@@ -1,0 +1,20 @@
+{
+  "version": "V10",
+  "modelo": "yolo11n.pt",
+  "imgsz": 960,
+  "clases": [
+    "vehiculo",
+    "peaton",
+    "objetoSolido"
+  ],
+  "split": "cola",
+  "final": false,
+  "conf_recomendado": 0.63,
+  "metricas_independientes": true,
+  "metricas": {
+    "precision": 0.4655561911530082,
+    "recall": 0.3920994842128483,
+    "mAP50": 0.38174614154578196,
+    "mAP50-95": 0.20107328975072053
+  }
+}
