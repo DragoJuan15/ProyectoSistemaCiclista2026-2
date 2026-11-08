@@ -1,0 +1,2409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>11</id>
+      <name>Clip 4-2</name>
+      <size>240</size>
+      <mode>interpolation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-10-26 06:22:33.190887+00:00</created>
+      <updated>2026-10-30 23:34:12.063795+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>239</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>11</id>
+          <start>0</start>
+          <stop>239</stop>
+          <url>http://localhost:8080/api/tasks/11/dataset/export/api/jobs/11</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>drago</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>vehiculo</name>
+          <color>#1E90FF</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>estado</name>
+              <mutable>True</mutable>
+              <input_type>radio</input_type>
+              <default_value>movimiento</default_value>
+              <values>reposo
+movimiento</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>peaton</name>
+          <color>#2ECC71</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>estado</name>
+              <mutable>True</mutable>
+              <input_type>radio</input_type>
+              <default_value>reposo</default_value>
+              <values>reposo
+movimiento</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>bache</name>
+          <color>#E67E22</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>estado</name>
+              <mutable>True</mutable>
+              <input_type>radio</input_type>
+              <default_value>reposo</default_value>
+              <values>reposo
+movimiento</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>objetoSolido</name>
+          <color>#d292ec</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>estado</name>
+              <mutable>True</mutable>
+              <input_type>radio</input_type>
+              <default_value>reposo</default_value>
+              <values>reposo
+movimiento</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>casiAccidente</name>
+          <color>#F1C40F</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>peligroReal</name>
+          <color>#E74C3C</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <original_size>
+        <width>1920</width>
+        <height>1080</height>
+      </original_size>
+      <source>clip4_parte2.mp4</source>
+    </task>
+    <dumped>2026-10-30 23:55:53.438788+00:00</dumped>
+  </meta>
+  <track id="0" label="vehiculo" source="semi-auto">
+    <box frame="3" keyframe="1" outside="0" occluded="0" xtl="1664.77" ytl="134.30" xbr="1920.00" ybr="429.18" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="4" keyframe="1" outside="0" occluded="0" xtl="1532.70" ytl="111.76" xbr="1920.00" ybr="417.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="5" keyframe="1" outside="0" occluded="0" xtl="1425.20" ytl="51.09" xbr="1920.00" ybr="417.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="6" keyframe="1" outside="0" occluded="0" xtl="1331.60" ytl="51.09" xbr="1920.00" ybr="425.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="7" keyframe="1" outside="0" occluded="0" xtl="1251.90" ytl="51.09" xbr="1920.00" ybr="429.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="8" keyframe="1" outside="0" occluded="0" xtl="1187.80" ytl="51.09" xbr="1920.00" ybr="443.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="9" keyframe="1" outside="0" occluded="0" xtl="1113.25" ytl="82.29" xbr="1845.45" ybr="474.31" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="10" keyframe="1" outside="0" occluded="0" xtl="1008.95" ytl="143.97" xbr="1767.34" ybr="424.95" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="11" keyframe="1" outside="0" occluded="0" xtl="920.89" ytl="180.23" xbr="1679.29" ybr="461.21" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="12" keyframe="1" outside="0" occluded="0" xtl="799.17" ytl="243.68" xbr="1557.56" ybr="524.66" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="727.85" ytl="310.48" xbr="1469.61" ybr="564.05" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="14" keyframe="1" outside="0" occluded="0" xtl="600.16" ytl="371.65" xbr="1277.41" ybr="623.28" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="15" keyframe="1" outside="0" occluded="0" xtl="479.73" ytl="426.04" xbr="1156.98" ybr="677.67" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="16" keyframe="1" outside="0" occluded="0" xtl="332.10" ytl="461.00" xbr="1009.36" ybr="712.64" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="179.30" ytl="519.28" xbr="856.55" ybr="770.91" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="18" keyframe="1" outside="0" occluded="0" xtl="8.36" ytl="571.07" xbr="685.62" ybr="822.71" rotation="347.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="-47.61" ytl="597.01" xbr="518.68" ybr="859.17" rotation="343.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="-59.34" ytl="628.00" xbr="327.07" ybr="890.15" rotation="343.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="-50.64" ytl="654.55" xbr="71.50" ybr="916.71" rotation="343.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="22" keyframe="1" outside="1" occluded="0" xtl="-50.64" ytl="654.55" xbr="71.50" ybr="916.71" rotation="343.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+  </track>
+  <track id="1" label="vehiculo" source="semi-auto">
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="1728.96" ytl="188.48" xbr="1920.00" ybr="405.11" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="18" keyframe="1" outside="0" occluded="0" xtl="1582.50" ytl="142.35" xbr="1920.00" ybr="415.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="1448.10" ytl="78.16" xbr="1920.00" ybr="445.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="1281.60" ytl="170.40" xbr="1920.00" ybr="487.30" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="1119.13" ytl="210.52" xbr="1757.53" ybr="527.42" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="998.78" ytl="272.70" xbr="1637.18" ybr="589.60" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="898.98" ytl="316.79" xbr="1477.00" ybr="617.40" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="24" keyframe="1" outside="0" occluded="0" xtl="831.68" ytl="349.29" xbr="1386.50" ybr="645.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="25" keyframe="1" outside="0" occluded="0" xtl="834.00" ytl="393.38" xbr="1388.80" ybr="670.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="824.72" ytl="411.90" xbr="1393.40" ybr="698.55" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="836.32" ytl="421.20" xbr="1425.90" ybr="719.44" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="827.04" ytl="451.40" xbr="1439.80" ybr="700.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="0" xtl="834.83" ytl="454.87" xbr="1462.77" ybr="704.37" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="30" keyframe="0" outside="0" occluded="0" xtl="842.62" ytl="458.33" xbr="1485.74" ybr="707.83" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="0" xtl="850.41" ytl="461.80" xbr="1508.71" ybr="711.30" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="858.20" ytl="465.27" xbr="1531.68" ybr="714.77" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="0" xtl="896.34" ytl="465.27" xbr="1569.82" ybr="714.77" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="34" keyframe="1" outside="0" occluded="0" xtl="934.48" ytl="465.27" xbr="1607.96" ybr="714.77" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="35" keyframe="1" outside="0" occluded="0" xtl="920.61" ytl="460.07" xbr="1594.09" ybr="709.57" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="36" keyframe="1" outside="0" occluded="0" xtl="913.68" ytl="473.94" xbr="1587.16" ybr="723.44" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="37" keyframe="1" outside="0" occluded="0" xtl="901.54" ytl="465.27" xbr="1575.02" ybr="714.77" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="38" keyframe="1" outside="0" occluded="0" xtl="887.67" ytl="470.47" xbr="1561.15" ybr="719.97" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="39" keyframe="1" outside="0" occluded="0" xtl="851.27" ytl="477.40" xbr="1524.75" ybr="739.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="835.67" ytl="458.33" xbr="1509.15" ybr="745.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="41" keyframe="1" outside="0" occluded="0" xtl="813.10" ytl="446.20" xbr="1528.22" ybr="756.30" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="783.60" ytl="456.60" xbr="1519.55" ybr="766.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="43" keyframe="1" outside="0" occluded="0" xtl="750.70" ytl="460.07" xbr="1510.88" ybr="782.30" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="0" xtl="732.50" ytl="459.20" xbr="1502.21" ybr="788.35" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="45" keyframe="1" outside="0" occluded="0" xtl="714.30" ytl="458.33" xbr="1493.54" ybr="794.40" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="46" keyframe="1" outside="0" occluded="0" xtl="691.80" ytl="458.33" xbr="1493.54" ybr="815.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="47" keyframe="1" outside="0" occluded="0" xtl="641.50" ytl="458.33" xbr="1493.54" ybr="844.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="48" keyframe="1" outside="0" occluded="0" xtl="591.20" ytl="458.33" xbr="1493.54" ybr="856.80" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="49" keyframe="1" outside="0" occluded="0" xtl="546.10" ytl="487.80" xbr="1450.20" ybr="870.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="50" keyframe="1" outside="0" occluded="0" xtl="455.95" ytl="505.10" xbr="1360.10" ybr="905.37" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="51" keyframe="1" outside="0" occluded="0" xtl="358.87" ytl="519.00" xbr="1270.00" ybr="936.58" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="52" keyframe="1" outside="0" occluded="0" xtl="239.30" ytl="517.27" xbr="1259.60" ybr="966.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="53" keyframe="1" outside="0" occluded="0" xtl="46.80" ytl="517.27" xbr="1259.60" ybr="1035.30" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="54" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="560.61" xbr="1070.64" ybr="1050.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="55" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="560.61" xbr="784.59" ybr="1050.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="56" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="581.41" xbr="651.10" ybr="1002.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="57" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="581.41" xbr="577.40" ybr="1023.65" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="58" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="581.41" xbr="503.70" ybr="1045.30" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="59" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="581.41" xbr="418.80" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="60" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="581.41" xbr="418.80" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="61" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="581.41" xbr="418.80" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="62" keyframe="1" outside="1" occluded="0" xtl="0.00" ytl="581.41" xbr="418.80" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+  </track>
+  <track id="2" label="vehiculo" source="semi-auto">
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="1664.77" ytl="160.40" xbr="1920.00" ybr="413.14" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="1574.51" ytl="92.20" xbr="1920.00" ybr="445.23" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="1442.20" ytl="92.20" xbr="1920.00" ybr="494.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="24" keyframe="1" outside="0" occluded="0" xtl="1356.30" ytl="152.54" xbr="1920.00" ybr="552.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="0" xtl="1336.55" ytl="196.62" xbr="1920.00" ybr="583.33" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="1316.80" ytl="240.70" xbr="1920.00" ybr="614.66" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="1323.76" ytl="266.23" xbr="1920.00" ybr="640.19" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="1319.10" ytl="296.40" xbr="1920.00" ybr="658.80" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="1326.06" ytl="335.85" xbr="1920.00" ybr="698.25" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="30" keyframe="0" outside="0" occluded="0" xtl="1333.88" ytl="335.85" xbr="1920.00" ybr="698.25" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="31" keyframe="1" outside="0" occluded="0" xtl="1341.70" ytl="335.85" xbr="1920.00" ybr="698.25" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="32" keyframe="0" outside="0" occluded="0" xtl="1361.65" ytl="335.85" xbr="1920.00" ybr="706.08" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="1381.60" ytl="335.85" xbr="1920.00" ybr="713.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="0" xtl="1377.70" ytl="338.89" xbr="1920.00" ybr="713.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="0" xtl="1373.80" ytl="341.93" xbr="1920.00" ybr="713.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="0" xtl="1369.90" ytl="344.96" xbr="1920.00" ybr="713.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="37" keyframe="1" outside="0" occluded="0" xtl="1366.00" ytl="348.00" xbr="1920.00" ybr="713.90" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="0" xtl="1348.65" ytl="348.00" xbr="1920.00" ybr="736.45" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="39" keyframe="1" outside="0" occluded="0" xtl="1331.30" ytl="348.00" xbr="1920.00" ybr="759.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="1303.60" ytl="315.10" xbr="1920.00" ybr="759.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="41" keyframe="1" outside="0" occluded="0" xtl="1277.60" ytl="315.10" xbr="1920.00" ybr="759.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="1256.80" ytl="315.10" xbr="1920.00" ybr="759.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="43" keyframe="1" outside="0" occluded="0" xtl="1234.30" ytl="315.10" xbr="1920.00" ybr="788.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="44" keyframe="1" outside="0" occluded="0" xtl="1199.60" ytl="315.10" xbr="1920.00" ybr="812.80" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="45" keyframe="1" outside="0" occluded="0" xtl="1178.80" ytl="315.10" xbr="1920.00" ybr="819.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="46" keyframe="1" outside="0" occluded="0" xtl="1144.10" ytl="315.10" xbr="1920.00" ybr="844.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="47" keyframe="1" outside="0" occluded="0" xtl="1102.50" ytl="315.10" xbr="1920.00" ybr="864.80" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="48" keyframe="1" outside="0" occluded="0" xtl="1102.50" ytl="278.70" xbr="1920.00" ybr="864.80" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="49" keyframe="1" outside="0" occluded="0" xtl="1010.60" ytl="278.70" xbr="1920.00" ybr="925.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="50" keyframe="1" outside="0" occluded="0" xtl="930.90" ytl="278.70" xbr="1920.00" ybr="953.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="51" keyframe="1" outside="0" occluded="0" xtl="844.20" ytl="237.10" xbr="1920.00" ybr="989.60" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="52" keyframe="1" outside="0" occluded="0" xtl="721.10" ytl="237.10" xbr="1920.00" ybr="1029.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="53" keyframe="1" outside="0" occluded="0" xtl="533.90" ytl="237.10" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="54" keyframe="1" outside="0" occluded="0" xtl="351.90" ytl="237.10" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="55" keyframe="1" outside="0" occluded="0" xtl="204.50" ytl="237.10" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="56" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="237.10" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="57" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="245.20" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="58" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="253.30" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="59" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="60" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1903.70" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="61" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1887.40" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="62" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1871.10" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="63" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1854.80" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="64" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1838.50" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="65" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1732.70" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="66" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1595.70" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="67" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="261.40" xbr="1470.90" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="68" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="330.70" xbr="1363.40" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="69" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="315.10" xbr="1276.70" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="70" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="309.90" xbr="1171.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="71" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="318.60" xbr="1084.30" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="72" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="308.20" xbr="969.90" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="73" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="372.30" xbr="831.20" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="74" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="398.30" xbr="635.30" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="75" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="413.90" xbr="463.70" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="76" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="445.10" xbr="326.70" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="77" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="434.70" xbr="207.10" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="78" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="367.10" xbr="75.30" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="79" keyframe="1" outside="1" occluded="0" xtl="0.00" ytl="367.10" xbr="75.30" ybr="1080.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+  </track>
+  <track id="3" label="objetoSolido" source="semi-auto">
+    <box frame="76" keyframe="1" outside="0" occluded="0" xtl="496.63" ytl="465.42" xbr="567.70" ybr="760.13" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="77" keyframe="1" outside="0" occluded="0" xtl="624.91" ytl="458.49" xbr="695.99" ybr="753.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="78" keyframe="1" outside="0" occluded="0" xtl="746.26" ytl="427.28" xbr="817.34" ybr="721.99" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="79" keyframe="1" outside="0" occluded="0" xtl="862.41" ytl="413.41" xbr="933.49" ybr="708.12" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="80" keyframe="1" outside="0" occluded="0" xtl="978.57" ytl="427.28" xbr="1049.64" ybr="721.99" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="81" keyframe="1" outside="0" occluded="0" xtl="1106.85" ytl="432.48" xbr="1177.93" ybr="727.19" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="82" keyframe="1" outside="0" occluded="0" xtl="1233.40" ytl="437.68" xbr="1304.48" ybr="732.39" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="83" keyframe="1" outside="0" occluded="0" xtl="1377.29" ytl="439.42" xbr="1448.37" ybr="734.13" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="84" keyframe="1" outside="0" occluded="0" xtl="1486.51" ytl="453.29" xbr="1557.59" ybr="748.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="85" keyframe="1" outside="0" occluded="0" xtl="1625.20" ytl="482.76" xbr="1696.27" ybr="777.47" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="86" keyframe="1" outside="0" occluded="0" xtl="1760.42" ytl="493.16" xbr="1831.49" ybr="787.87" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="87" keyframe="1" outside="0" occluded="0" xtl="1845.36" ytl="430.70" xbr="1916.44" ybr="810.41" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="88" keyframe="1" outside="1" occluded="0" xtl="1845.36" ytl="430.70" xbr="1916.44" ybr="810.41" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="4" label="objetoSolido" source="semi-auto">
+    <box frame="79" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="318.07" xbr="61.49" ybr="602.37" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="80" keyframe="1" outside="0" occluded="0" xtl="110.95" ytl="318.07" xbr="172.44" ybr="602.38" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="81" keyframe="1" outside="0" occluded="0" xtl="260.04" ytl="307.66" xbr="321.53" ybr="591.97" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="82" keyframe="1" outside="0" occluded="0" xtl="390.06" ytl="305.93" xbr="451.55" ybr="590.24" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="83" keyframe="1" outside="0" occluded="0" xtl="514.88" ytl="299.00" xbr="576.37" ybr="583.31" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="84" keyframe="1" outside="0" occluded="0" xtl="624.09" ytl="304.20" xbr="685.59" ybr="588.51" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="85" keyframe="1" outside="0" occluded="0" xtl="722.91" ytl="316.33" xbr="784.40" ybr="600.64" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="86" keyframe="1" outside="0" occluded="0" xtl="799.19" ytl="328.47" xbr="860.68" ybr="612.78" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="87" keyframe="1" outside="0" occluded="0" xtl="858.13" ytl="340.60" xbr="919.62" ybr="624.91" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="88" keyframe="1" outside="0" occluded="0" xtl="903.21" ytl="356.20" xbr="964.70" ybr="659.58" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="89" keyframe="1" outside="0" occluded="0" xtl="915.19" ytl="369.68" xbr="976.68" ybr="673.07" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="90" keyframe="1" outside="0" occluded="0" xtl="933.17" ytl="407.14" xbr="994.67" ybr="710.52" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="91" keyframe="1" outside="0" occluded="0" xtl="940.66" ytl="429.62" xbr="1002.16" ybr="733.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="92" keyframe="1" outside="0" occluded="0" xtl="939.16" ytl="435.60" xbr="1000.66" ybr="755.47" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="93" keyframe="1" outside="0" occluded="0" xtl="940.28" ytl="436.70" xbr="985.00" ybr="784.57" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="94" keyframe="1" outside="0" occluded="0" xtl="927.97" ytl="454.61" xbr="972.69" ybr="802.48" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="95" keyframe="1" outside="0" occluded="0" xtl="889.92" ytl="479.23" xbr="934.63" ybr="827.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="96" keyframe="1" outside="0" occluded="0" xtl="861.94" ytl="508.33" xbr="906.66" ybr="856.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="97" keyframe="1" outside="0" occluded="0" xtl="824.78" ytl="515.37" xbr="869.50" ybr="889.85" rotation="354.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="98" keyframe="1" outside="0" occluded="0" xtl="774.42" ytl="538.87" xbr="819.13" ybr="913.35" rotation="354.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="99" keyframe="1" outside="0" occluded="0" xtl="721.81" ytl="560.14" xbr="766.53" ybr="934.62" rotation="354.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="100" keyframe="1" outside="0" occluded="0" xtl="652.36" ytl="583.16" xbr="697.08" ybr="980.11" rotation="354.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="101" keyframe="1" outside="0" occluded="0" xtl="530.48" ytl="622.82" xbr="575.20" ybr="1019.76" rotation="354.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="102" keyframe="1" outside="0" occluded="0" xtl="391.64" ytl="666.13" xbr="463.52" ybr="1079.00" rotation="347.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="103" keyframe="1" outside="0" occluded="0" xtl="202.58" ytl="681.67" xbr="274.46" ybr="1094.54" rotation="347.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="104" keyframe="1" outside="0" occluded="0" xtl="-30.52" ytl="742.53" xbr="41.37" ybr="1155.40" rotation="347.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="105" keyframe="1" outside="1" occluded="0" xtl="-30.52" ytl="742.53" xbr="41.37" ybr="1155.40" rotation="347.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="5" label="objetoSolido" source="semi-auto">
+    <box frame="103" keyframe="1" outside="0" occluded="0" xtl="1836.69" ytl="134.30" xbr="1920.00" ybr="484.49" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="104" keyframe="1" outside="0" occluded="0" xtl="1739.60" ytl="144.70" xbr="1920.00" ybr="834.68" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="105" keyframe="1" outside="0" occluded="0" xtl="1632.12" ytl="182.84" xbr="1812.52" ybr="872.82" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="106" keyframe="1" outside="0" occluded="0" xtl="1536.80" ytl="188.00" xbr="1798.65" ybr="940.42" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="107" keyframe="1" outside="0" occluded="0" xtl="1521.20" ytl="240.00" xbr="1786.51" ybr="1047.91" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="108" keyframe="1" outside="0" occluded="0" xtl="1574.94" ytl="260.80" xbr="1741.40" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="109" keyframe="1" outside="0" occluded="0" xtl="1630.40" ytl="269.50" xbr="1854.08" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="110" keyframe="1" outside="0" occluded="0" xtl="1736.20" ytl="273.00" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="111" keyframe="1" outside="0" occluded="0" xtl="1862.70" ytl="264.30" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="112" keyframe="1" outside="1" occluded="0" xtl="1862.70" ytl="264.30" xbr="1920.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="6" label="objetoSolido" source="semi-auto">
+    <box frame="11" keyframe="1" outside="0" occluded="0" xtl="1797.80" ytl="0.00" xbr="1898.78" ybr="383.67" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="12" keyframe="1" outside="0" occluded="0" xtl="1734.90" ytl="37.70" xbr="1850.42" ybr="431.07" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="1639.10" ytl="60.90" xbr="1775.93" ybr="456.22" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="14" keyframe="1" outside="0" occluded="0" xtl="1550.11" ytl="98.62" xbr="1686.94" ybr="493.95" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="15" keyframe="1" outside="0" occluded="0" xtl="1441.77" ytl="143.12" xbr="1578.60" ybr="538.44" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="16" keyframe="1" outside="0" occluded="0" xtl="1327.63" ytl="169.24" xbr="1464.46" ybr="564.56" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="1234.76" ytl="197.29" xbr="1371.60" ybr="592.61" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="18" keyframe="1" outside="0" occluded="0" xtl="1108.05" ytl="231.15" xbr="1244.88" ybr="626.47" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="972.62" ytl="265.97" xbr="1109.46" ybr="661.29" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="864.28" ytl="293.06" xbr="1001.12" ybr="688.38" rotation="340.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="723.06" ytl="337.55" xbr="859.89" ybr="732.88" rotation="340.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="573.57" ytl="354.87" xbr="710.40" ybr="806.03" rotation="340.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="469.10" ytl="377.12" xbr="605.93" ybr="828.28" rotation="340.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="24" keyframe="1" outside="0" occluded="0" xtl="375.27" ytl="425.48" xbr="512.10" ybr="876.64" rotation="340.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="25" keyframe="1" outside="0" occluded="0" xtl="374.45" ytl="420.21" xbr="491.62" ybr="898.33" rotation="340.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="358.98" ytl="424.08" xbr="476.14" ybr="902.20" rotation="340.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="371.68" ytl="405.72" xbr="488.84" ybr="911.48" rotation="347.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="389.59" ytl="378.86" xbr="506.75" ybr="884.62" rotation="347.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="390.71" ytl="379.98" xbr="507.87" ybr="885.73" rotation="347.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="398.54" ytl="373.27" xbr="515.70" ybr="879.02" rotation="347.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="31" keyframe="1" outside="0" occluded="0" xtl="425.12" ytl="344.32" xbr="542.29" ybr="866.83" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="453.84" ytl="338.82" xbr="571.00" ybr="892.79" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="473.99" ytl="334.34" xbr="591.15" ybr="888.31" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="34" keyframe="1" outside="0" occluded="0" xtl="494.13" ytl="338.82" xbr="611.30" ybr="892.79" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="35" keyframe="1" outside="0" occluded="0" xtl="504.21" ytl="327.63" xbr="621.37" ybr="881.60" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="36" keyframe="1" outside="0" occluded="0" xtl="493.36" ytl="330.86" xbr="610.52" ybr="907.50" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="37" keyframe="1" outside="0" occluded="0" xtl="469.41" ytl="318.93" xbr="586.58" ybr="914.34" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="38" keyframe="1" outside="0" occluded="0" xtl="447.16" ytl="308.66" xbr="564.33" ybr="956.12" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="39" keyframe="1" outside="0" occluded="0" xtl="416.94" ytl="309.78" xbr="534.11" ybr="957.24" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="371.94" ytl="311.71" xbr="489.11" ybr="988.78" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="41" keyframe="1" outside="0" occluded="0" xtl="353.96" ytl="293.23" xbr="471.13" ybr="1011.46" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="306.54" ytl="294.12" xbr="423.71" ybr="1044.14" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="43" keyframe="1" outside="0" occluded="0" xtl="285.02" ytl="283.50" xbr="402.18" ybr="1076.90" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="44" keyframe="1" outside="0" occluded="0" xtl="238.30" ytl="271.50" xbr="355.46" ybr="1088.25" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="45" keyframe="1" outside="0" occluded="0" xtl="188.29" ytl="265.85" xbr="345.00" ybr="1104.01" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="46" keyframe="1" outside="0" occluded="0" xtl="120.02" ytl="263.61" xbr="276.73" ybr="1101.77" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="47" keyframe="1" outside="0" occluded="0" xtl="55.11" ytl="263.61" xbr="211.82" ybr="1101.77" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="48" keyframe="1" outside="0" occluded="0" xtl="-28.84" ytl="263.61" xbr="127.88" ybr="1101.77" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="49" keyframe="1" outside="1" occluded="0" xtl="-46.74" ytl="265.85" xbr="109.97" ybr="1104.01" rotation="350.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="7" label="objetoSolido" source="semi-auto">
+    <box frame="25" keyframe="1" outside="0" occluded="0" xtl="623.85" ytl="569.51" xbr="674.85" ybr="702.44" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="616.36" ytl="580.75" xbr="667.36" ybr="713.68" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="622.89" ytl="581.22" xbr="673.89" ybr="714.15" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="629.89" ytl="580.75" xbr="680.89" ybr="713.68" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="654.15" ytl="574.69" xbr="705.14" ybr="707.62" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="672.80" ytl="570.96" xbr="723.80" ybr="703.88" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="31" keyframe="1" outside="0" occluded="0" xtl="705.93" ytl="569.09" xbr="756.92" ybr="702.02" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="741.80" ytl="547.60" xbr="783.51" ybr="698.75" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="772.59" ytl="549.46" xbr="814.30" ybr="700.62" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="34" keyframe="1" outside="0" occluded="0" xtl="802.44" ytl="544.80" xbr="844.16" ybr="695.95" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="35" keyframe="1" outside="0" occluded="0" xtl="811.77" ytl="545.73" xbr="853.49" ybr="696.89" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="36" keyframe="1" outside="0" occluded="0" xtl="811.77" ytl="549.00" xbr="853.49" ybr="700.15" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="37" keyframe="1" outside="0" occluded="0" xtl="799.18" ytl="556.00" xbr="840.89" ybr="707.15" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="38" keyframe="1" outside="0" occluded="0" xtl="787.52" ytl="563.46" xbr="829.23" ybr="714.61" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="39" keyframe="1" outside="0" occluded="0" xtl="784.72" ytl="573.72" xbr="826.43" ybr="724.88" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="777.72" ytl="577.45" xbr="819.43" ybr="728.61" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="41" keyframe="1" outside="0" occluded="0" xtl="760.93" ytl="583.98" xbr="802.64" ybr="735.14" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="759.53" ytl="586.32" xbr="801.24" ybr="737.47" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="43" keyframe="1" outside="1" occluded="0" xtl="759.53" ytl="586.32" xbr="801.24" ybr="737.47" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="8" label="vehiculo" source="semi-auto">
+    <box frame="64" keyframe="1" outside="0" occluded="0" xtl="1532.06" ytl="348.39" xbr="1920.00" ybr="549.16" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="65" keyframe="1" outside="0" occluded="0" xtl="1460.14" ytl="355.88" xbr="1848.08" ybr="556.65" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="66" keyframe="1" outside="0" occluded="0" xtl="1295.30" ytl="390.30" xbr="1735.71" ybr="586.62" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="67" keyframe="1" outside="0" occluded="0" xtl="1162.00" ytl="405.28" xbr="1644.31" ybr="612.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="68" keyframe="1" outside="0" occluded="0" xtl="1112.55" ytl="417.27" xbr="1594.87" ybr="624.09" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="69" keyframe="1" outside="0" occluded="0" xtl="1028.60" ytl="448.73" xbr="1593.37" ybr="706.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="70" keyframe="1" outside="0" occluded="0" xtl="1034.59" ytl="453.23" xbr="1599.36" ybr="711.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="71" keyframe="1" outside="0" occluded="0" xtl="1015.07" ytl="454.73" xbr="1621.84" ybr="723.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="72" keyframe="1" outside="0" occluded="0" xtl="1015.07" ytl="454.73" xbr="1648.80" ybr="724.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="73" keyframe="1" outside="0" occluded="0" xtl="1072.00" ytl="465.22" xbr="1731.21" ybr="734.99" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="74" keyframe="1" outside="0" occluded="0" xtl="1145.40" ytl="481.70" xbr="1834.59" ybr="745.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="75" keyframe="1" outside="0" occluded="0" xtl="1229.30" ytl="501.18" xbr="1918.49" ybr="764.98" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="76" keyframe="1" outside="0" occluded="0" xtl="1299.72" ytl="513.16" xbr="1920.00" ybr="776.96" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="77" keyframe="1" outside="0" occluded="0" xtl="1457.05" ytl="537.13" xbr="1920.00" ybr="800.94" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="78" keyframe="1" outside="0" occluded="0" xtl="1617.37" ytl="561.11" xbr="1920.00" ybr="824.91" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="79" keyframe="1" outside="0" occluded="0" xtl="1723.75" ytl="588.08" xbr="1920.00" ybr="851.88" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="80" keyframe="1" outside="1" occluded="0" xtl="1723.75" ytl="588.08" xbr="1920.00" ybr="851.88" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+  </track>
+  <track id="9" label="vehiculo" source="semi-auto">
+    <box frame="66" keyframe="1" outside="0" occluded="0" xtl="1743.32" ytl="324.41" xbr="1920.00" ybr="532.68" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="67" keyframe="1" outside="0" occluded="0" xtl="1666.90" ytl="328.91" xbr="1920.00" ybr="556.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="68" keyframe="1" outside="0" occluded="0" xtl="1604.00" ytl="355.88" xbr="1920.00" ybr="574.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="69" keyframe="1" outside="0" occluded="0" xtl="1593.50" ytl="393.34" xbr="1920.00" ybr="600.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="70" keyframe="1" outside="0" occluded="0" xtl="1603.99" ytl="409.82" xbr="1920.00" ybr="616.68" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="71" keyframe="1" outside="0" occluded="0" xtl="1623.47" ytl="441.28" xbr="1920.00" ybr="648.15" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="72" keyframe="1" outside="0" occluded="0" xtl="1665.42" ytl="463.76" xbr="1920.00" ybr="670.62" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="73" keyframe="1" outside="0" occluded="0" xtl="1738.84" ytl="483.24" xbr="1920.00" ybr="690.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="74" keyframe="1" outside="0" occluded="0" xtl="1834.73" ytl="523.69" xbr="1920.00" ybr="696.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="75" keyframe="1" outside="1" occluded="0" xtl="1834.73" ytl="523.69" xbr="1920.00" ybr="696.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+  </track>
+  <track id="10" label="objetoSolido" source="semi-auto">
+    <box frame="94" keyframe="1" outside="0" occluded="0" xtl="1573.08" ytl="269.42" xbr="1920.00" ybr="581.46" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="95" keyframe="0" outside="0" occluded="0" xtl="1542.86" ytl="259.90" xbr="1920.00" ybr="579.78" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="96" keyframe="1" outside="0" occluded="0" xtl="1512.64" ytl="250.39" xbr="1920.00" ybr="578.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="97" keyframe="1" outside="0" occluded="0" xtl="1481.30" ytl="250.39" xbr="1920.00" ybr="589.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="98" keyframe="1" outside="0" occluded="0" xtl="1447.96" ytl="202.21" xbr="1886.66" ybr="575.98" rotation="353.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="99" keyframe="1" outside="0" occluded="0" xtl="1416.62" ytl="189.90" xbr="1855.32" ybr="563.67" rotation="353.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="100" keyframe="1" outside="0" occluded="0" xtl="1342.76" ytl="174.24" xbr="1781.45" ybr="548.00" rotation="353.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="101" keyframe="1" outside="0" occluded="0" xtl="1232.05" ytl="164.60" xbr="1670.75" ybr="561.63" rotation="349.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="102" keyframe="1" outside="0" occluded="0" xtl="1107.82" ytl="164.60" xbr="1546.52" ybr="561.63" rotation="342.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="103" keyframe="1" outside="0" occluded="0" xtl="1002.61" ytl="161.24" xbr="1441.31" ybr="558.28" rotation="342.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="104" keyframe="1" outside="0" occluded="0" xtl="849.79" ytl="225.67" xbr="1288.48" ybr="622.70" rotation="342.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="105" keyframe="1" outside="0" occluded="0" xtl="768.88" ytl="236.16" xbr="1207.57" ybr="633.19" rotation="342.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="106" keyframe="1" outside="0" occluded="0" xtl="634.03" ytl="276.61" xbr="1072.72" ybr="673.65" rotation="342.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="107" keyframe="1" outside="0" occluded="0" xtl="560.61" ytl="303.58" xbr="999.31" ybr="700.62" rotation="342.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="108" keyframe="1" outside="0" occluded="0" xtl="547.42" ytl="314.54" xbr="1005.01" ybr="728.63" rotation="346.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="109" keyframe="0" outside="0" occluded="0" xtl="563.81" ytl="317.56" xbr="1040.84" ybr="741.15" rotation="350.67" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="110" keyframe="0" outside="0" occluded="0" xtl="580.21" ytl="320.58" xbr="1076.67" ybr="753.66" rotation="355.33" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="111" keyframe="1" outside="0" occluded="0" xtl="596.60" ytl="323.60" xbr="1112.50" ybr="766.18" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="112" keyframe="0" outside="0" occluded="0" xtl="605.60" ytl="298.90" xbr="1151.45" ybr="778.17" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="113" keyframe="1" outside="0" occluded="0" xtl="614.60" ytl="274.20" xbr="1190.41" ybr="790.15" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="114" keyframe="1" outside="0" occluded="0" xtl="626.60" ytl="262.20" xbr="1245.85" ybr="802.14" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="115" keyframe="1" outside="0" occluded="0" xtl="659.56" ytl="248.72" xbr="1278.81" ybr="788.66" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="116" keyframe="0" outside="0" occluded="0" xtl="680.54" ytl="235.23" xbr="1299.78" ybr="775.17" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="117" keyframe="1" outside="0" occluded="0" xtl="701.51" ytl="221.75" xbr="1320.76" ybr="761.69" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="118" keyframe="1" outside="0" occluded="0" xtl="774.33" ytl="256.42" xbr="1393.57" ybr="796.36" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="119" keyframe="1" outside="0" occluded="0" xtl="805.50" ytl="221.70" xbr="1478.52" ybr="870.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="857.50" ytl="181.80" xbr="1575.60" ybr="881.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="121" keyframe="1" outside="0" occluded="0" xtl="952.80" ytl="115.90" xbr="1768.03" ybr="919.44" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="122" keyframe="1" outside="0" occluded="0" xtl="1098.37" ytl="105.50" xbr="1920.00" ybr="890.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="123" keyframe="1" outside="0" occluded="0" xtl="1240.53" ytl="102.03" xbr="1920.00" ybr="947.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="124" keyframe="1" outside="0" occluded="0" xtl="1410.40" ytl="51.76" xbr="1920.00" ybr="792.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="125" keyframe="0" outside="0" occluded="0" xtl="1546.49" ytl="88.16" xbr="1920.00" ybr="829.31" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="126" keyframe="1" outside="0" occluded="0" xtl="1682.58" ytl="124.57" xbr="1920.00" ybr="865.71" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="127" keyframe="1" outside="0" occluded="0" xtl="1810.86" ytl="147.11" xbr="1920.00" ybr="888.25" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="128" keyframe="1" outside="1" occluded="0" xtl="1810.86" ytl="147.11" xbr="1920.00" ybr="888.25" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="11" label="objetoSolido" source="semi-auto">
+    <box frame="94" keyframe="1" outside="0" occluded="0" xtl="890.91" ytl="327.93" xbr="1554.49" ybr="583.31" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="95" keyframe="0" outside="0" occluded="0" xtl="861.25" ytl="321.77" xbr="1524.83" ybr="598.41" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="96" keyframe="1" outside="0" occluded="0" xtl="831.59" ytl="315.60" xbr="1495.17" ybr="613.52" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="97" keyframe="1" outside="0" occluded="0" xtl="785.70" ytl="323.43" xbr="1449.28" ybr="621.36" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="98" keyframe="1" outside="0" occluded="0" xtl="770.03" ytl="322.31" xbr="1433.61" ybr="620.24" rotation="354.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="99" keyframe="1" outside="0" occluded="0" xtl="731.98" ytl="316.72" xbr="1395.56" ybr="614.64" rotation="354.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="100" keyframe="1" outside="0" occluded="0" xtl="666.69" ytl="345.42" xbr="1330.27" ybr="621.20" rotation="350.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="101" keyframe="1" outside="0" occluded="0" xtl="567.21" ytl="360.17" xbr="1246.44" ybr="635.95" rotation="350.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="102" keyframe="1" outside="0" occluded="0" xtl="466.65" ytl="368.92" xbr="1162.75" ybr="644.71" rotation="346.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="103" keyframe="1" outside="0" occluded="0" xtl="312.20" ytl="429.36" xbr="1008.30" ybr="705.15" rotation="346.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="104" keyframe="1" outside="0" occluded="0" xtl="156.45" ytl="474.90" xbr="852.55" ybr="750.69" rotation="346.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="105" keyframe="1" outside="0" occluded="0" xtl="1.52" ytl="487.51" xbr="789.48" ybr="763.30" rotation="346.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="106" keyframe="1" outside="0" occluded="0" xtl="3.32" ytl="502.15" xbr="670.30" ybr="777.93" rotation="346.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="107" keyframe="1" outside="0" occluded="0" xtl="4.65" ytl="513.01" xbr="581.83" ybr="788.80" rotation="346.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="108" keyframe="1" outside="0" occluded="0" xtl="-12.38" ytl="462.53" xbr="564.80" ybr="808.06" rotation="346.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="109" keyframe="1" outside="0" occluded="0" xtl="-2.02" ytl="466.42" xbr="575.16" ybr="811.95" rotation="350.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="110" keyframe="1" outside="0" occluded="0" xtl="-11.09" ytl="466.42" xbr="566.09" ybr="811.95" rotation="350.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="111" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="456.05" xbr="597.17" ybr="819.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="112" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="418.58" xbr="622.65" ybr="802.47" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="113" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="381.10" xbr="648.12" ybr="785.24" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="114" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="353.40" xbr="669.11" ybr="785.24" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="115" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="325.70" xbr="690.10" ybr="785.24" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="116" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="301.73" xbr="701.34" ybr="761.27" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="117" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="277.75" xbr="712.57" ybr="737.29" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="118" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="277.75" xbr="775.00" ybr="737.29" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="119" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="227.48" xbr="811.40" ybr="687.02" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="64.10" ytl="154.70" xbr="891.10" ybr="598.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="121" keyframe="1" outside="0" occluded="0" xtl="249.60" ytl="163.40" xbr="984.71" ybr="577.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="122" keyframe="1" outside="0" occluded="0" xtl="426.50" ytl="192.87" xbr="1156.34" ybr="579.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="123" keyframe="1" outside="0" occluded="0" xtl="154.30" ytl="107.93" xbr="1327.97" ybr="565.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="124" keyframe="1" outside="0" occluded="0" xtl="364.06" ytl="85.39" xbr="1537.73" ybr="543.06" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="125" keyframe="1" outside="0" occluded="0" xtl="459.41" ytl="76.72" xbr="1633.08" ybr="562.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="126" keyframe="1" outside="0" occluded="0" xtl="511.40" ytl="128.73" xbr="1735.36" ybr="560.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="127" keyframe="1" outside="0" occluded="0" xtl="561.70" ytl="147.80" xbr="1856.71" ybr="638.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="128" keyframe="1" outside="0" occluded="0" xtl="610.98" ytl="184.31" xbr="1985.13" ybr="707.62" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="129" keyframe="1" outside="0" occluded="0" xtl="628.32" ytl="234.58" xbr="2002.46" ybr="757.89" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="130" keyframe="1" outside="0" occluded="0" xtl="650.86" ytl="253.65" xbr="2025.00" ybr="776.96" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="131" keyframe="1" outside="0" occluded="0" xtl="676.86" ytl="267.52" xbr="2051.00" ybr="790.83" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="132" keyframe="1" outside="0" occluded="0" xtl="723.67" ytl="302.19" xbr="2097.81" ybr="825.50" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="133" keyframe="1" outside="0" occluded="0" xtl="791.28" ytl="312.59" xbr="2165.42" ybr="835.91" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="134" keyframe="1" outside="0" occluded="0" xtl="868.58" ytl="201.77" xbr="1952.06" ybr="819.45" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="135" keyframe="1" outside="0" occluded="0" xtl="936.00" ytl="188.31" xbr="2019.48" ybr="862.83" rotation="9.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="136" keyframe="1" outside="0" occluded="0" xtl="1026.14" ytl="190.04" xbr="2109.62" ybr="864.56" rotation="9.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="137" keyframe="1" outside="0" occluded="0" xtl="1041.75" ytl="167.50" xbr="2125.23" ybr="842.03" rotation="5.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="138" keyframe="1" outside="0" occluded="0" xtl="1074.68" ytl="165.77" xbr="2158.17" ybr="840.29" rotation="5.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="139" keyframe="1" outside="0" occluded="0" xtl="1055.62" ytl="150.17" xbr="2139.10" ybr="824.69" rotation="5.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="140" keyframe="1" outside="0" occluded="0" xtl="1092.02" ytl="158.84" xbr="2175.50" ybr="833.36" rotation="5.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="141" keyframe="1" outside="0" occluded="0" xtl="1124.96" ytl="165.77" xbr="2208.44" ybr="840.29" rotation="5.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="142" keyframe="1" outside="0" occluded="0" xtl="1138.83" ytl="169.24" xbr="2222.31" ybr="843.76" rotation="5.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="143" keyframe="1" outside="0" occluded="0" xtl="1183.77" ytl="6.78" xbr="2030.02" ybr="855.34" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="144" keyframe="1" outside="0" occluded="0" xtl="1234.04" ytl="36.25" xbr="2080.30" ybr="884.82" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="145" keyframe="1" outside="0" occluded="0" xtl="1292.98" ytl="32.79" xbr="2139.24" ybr="881.35" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="146" keyframe="1" outside="0" occluded="0" xtl="1358.86" ytl="41.45" xbr="2205.12" ybr="890.02" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="147" keyframe="1" outside="0" occluded="0" xtl="1390.05" ytl="7.45" xbr="2236.30" ybr="919.54" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="148" keyframe="1" outside="0" occluded="0" xtl="1424.72" ytl="26.52" xbr="2270.97" ybr="938.60" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="149" keyframe="1" outside="0" occluded="0" xtl="1464.74" ytl="5.45" xbr="2311.00" ybr="987.20" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="150" keyframe="1" outside="0" occluded="0" xtl="1495.95" ytl="7.19" xbr="2342.20" ybr="988.93" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="151" keyframe="1" outside="0" occluded="0" xtl="1502.88" ytl="8.92" xbr="2349.14" ybr="990.66" rotation="3.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="152" keyframe="1" outside="0" occluded="0" xtl="1501.77" ytl="-10.39" xbr="2348.03" ybr="1013.21" rotation="1.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="153" keyframe="1" outside="0" occluded="0" xtl="1549.04" ytl="-5.16" xbr="2395.30" ybr="1049.62" rotation="0.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="154" keyframe="1" outside="0" occluded="0" xtl="1566.46" ytl="-13.40" xbr="1932.29" ybr="1072.63" rotation="0.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="155" keyframe="1" outside="0" occluded="0" xtl="1601.13" ytl="-13.40" xbr="1966.96" ybr="1072.63" rotation="0.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="156" keyframe="1" outside="0" occluded="0" xtl="1641.01" ytl="2.20" xbr="2006.83" ybr="1088.24" rotation="0.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="157" keyframe="1" outside="0" occluded="0" xtl="1720.75" ytl="2.20" xbr="2086.58" ybr="1088.24" rotation="0.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="158" keyframe="1" outside="0" occluded="0" xtl="1805.70" ytl="-6.47" xbr="2171.52" ybr="1079.57" rotation="0.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="159" keyframe="1" outside="0" occluded="0" xtl="1852.51" ytl="-12.40" xbr="1938.90" ybr="1073.63" rotation="0.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="160" keyframe="1" outside="1" occluded="0" xtl="1852.51" ytl="-12.40" xbr="1938.90" ybr="1073.63" rotation="0.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="12" label="objetoSolido" source="semi-auto">
+    <box frame="102" keyframe="1" outside="0" occluded="0" xtl="1529.74" ytl="38.85" xbr="1905.93" ybr="467.05" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="103" keyframe="1" outside="0" occluded="0" xtl="1375.45" ytl="14.58" xbr="1751.64" ybr="508.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="104" keyframe="1" outside="0" occluded="0" xtl="1241.96" ytl="44.05" xbr="1618.15" ybr="546.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="105" keyframe="1" outside="0" occluded="0" xtl="1124.08" ytl="70.05" xbr="1500.27" ybr="572.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="106" keyframe="1" outside="0" occluded="0" xtl="1035.67" ytl="108.19" xbr="1330.40" ybr="610.94" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="107" keyframe="1" outside="0" occluded="0" xtl="999.26" ytl="123.79" xbr="1293.99" ybr="626.55" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="108" keyframe="1" outside="0" occluded="0" xtl="994.06" ytl="167.13" xbr="1288.79" ybr="669.88" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="109" keyframe="1" outside="0" occluded="0" xtl="1033.93" ytl="189.67" xbr="1328.67" ybr="692.42" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="110" keyframe="1" outside="0" occluded="0" xtl="1061.67" ytl="200.07" xbr="1356.40" ybr="702.82" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="111" keyframe="1" outside="0" occluded="0" xtl="1108.47" ytl="222.61" xbr="1403.21" ybr="725.36" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="112" keyframe="1" outside="0" occluded="0" xtl="1144.88" ytl="234.74" xbr="1439.61" ybr="737.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="113" keyframe="1" outside="0" occluded="0" xtl="1172.60" ytl="163.70" xbr="1489.89" ybr="747.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="114" keyframe="1" outside="0" occluded="0" xtl="1200.30" ytl="146.40" xbr="1534.96" ybr="792.97" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="115" keyframe="1" outside="0" occluded="0" xtl="1252.31" ytl="149.87" xbr="1586.97" ybr="796.44" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="116" keyframe="1" outside="0" occluded="0" xtl="1271.38" ytl="160.27" xbr="1606.04" ybr="806.84" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="117" keyframe="1" outside="0" occluded="0" xtl="1342.46" ytl="184.54" xbr="1677.12" ybr="831.11" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="118" keyframe="1" outside="0" occluded="0" xtl="1401.40" ytl="99.60" xbr="1784.61" ybr="869.25" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="119" keyframe="1" outside="0" occluded="0" xtl="1500.20" ytl="51.10" xbr="1920.00" ybr="943.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="1597.28" ytl="44.17" xbr="1920.00" ybr="936.86" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="121" keyframe="1" outside="0" occluded="0" xtl="1786.24" ytl="66.70" xbr="1920.00" ybr="959.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="122" keyframe="1" outside="1" occluded="0" xtl="1786.24" ytl="66.70" xbr="1920.00" ybr="959.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="13" label="objetoSolido" source="semi-auto">
+    <box frame="124" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="14.58" xbr="71.79" ybr="524.26" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="125" keyframe="1" outside="0" occluded="0" xtl="46.80" ytl="0.00" xbr="200.07" ybr="557.19" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="126" keyframe="1" outside="0" occluded="0" xtl="124.81" ytl="0.00" xbr="278.08" ybr="579.73" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="127" keyframe="1" outside="0" occluded="0" xtl="162.95" ytl="0.00" xbr="316.22" ybr="626.54" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="128" keyframe="1" outside="0" occluded="0" xtl="206.30" ytl="0.00" xbr="356.10" ybr="706.28" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="129" keyframe="1" outside="0" occluded="0" xtl="204.60" ytl="0.00" xbr="354.36" ybr="746.16" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="130" keyframe="1" outside="0" occluded="0" xtl="195.90" ytl="0.00" xbr="350.89" ybr="796.43" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="131" keyframe="1" outside="0" occluded="0" xtl="209.80" ytl="0.00" xbr="363.03" ybr="839.77" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="132" keyframe="1" outside="0" occluded="0" xtl="239.30" ytl="0.00" xbr="394.23" ybr="869.24" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="133" keyframe="1" outside="0" occluded="0" xtl="289.60" ytl="0.00" xbr="446.24" ybr="883.11" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="134" keyframe="1" outside="0" occluded="0" xtl="308.70" ytl="0.00" xbr="468.78" ybr="891.78" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="135" keyframe="1" outside="0" occluded="0" xtl="371.10" ytl="0.00" xbr="539.86" ybr="896.98" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="136" keyframe="1" outside="0" occluded="0" xtl="435.20" ytl="0.00" xbr="619.60" ybr="910.85" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="137" keyframe="1" outside="0" occluded="0" xtl="457.70" ytl="0.00" xbr="643.87" ybr="914.31" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="138" keyframe="1" outside="0" occluded="0" xtl="461.20" ytl="0.00" xbr="654.27" ybr="919.51" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="139" keyframe="1" outside="0" occluded="0" xtl="440.40" ytl="0.00" xbr="633.47" ybr="947.25" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="140" keyframe="1" outside="0" occluded="0" xtl="402.30" ytl="0.00" xbr="616.13" ybr="987.13" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="141" keyframe="1" outside="0" occluded="0" xtl="364.20" ytl="0.00" xbr="640.40" ybr="1000.99" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="142" keyframe="1" outside="0" occluded="0" xtl="355.50" ytl="0.00" xbr="635.20" ybr="1013.13" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="143" keyframe="1" outside="0" occluded="0" xtl="371.10" ytl="0.00" xbr="659.47" ybr="1053.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="144" keyframe="1" outside="0" occluded="0" xtl="385.00" ytl="0.00" xbr="685.48" ybr="1072.07" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="145" keyframe="1" outside="0" occluded="0" xtl="404.10" ytl="0.00" xbr="713.21" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="146" keyframe="0" outside="0" occluded="0" xtl="367.70" ytl="0.00" xbr="710.61" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="147" keyframe="1" outside="0" occluded="0" xtl="331.30" ytl="0.00" xbr="708.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="148" keyframe="1" outside="0" occluded="0" xtl="315.70" ytl="0.00" xbr="692.40" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="149" keyframe="1" outside="0" occluded="0" xtl="251.60" ytl="5.20" xbr="662.93" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="150" keyframe="1" outside="0" occluded="0" xtl="145.80" ytl="12.13" xbr="602.25" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="151" keyframe="1" outside="0" occluded="0" xtl="7.11" ytl="0.00" xbr="463.56" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="152" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="0.00" xbr="224.30" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="153" keyframe="1" outside="1" occluded="0" xtl="0.00" ytl="0.00" xbr="224.30" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="14" label="objetoSolido" source="semi-auto">
+    <box frame="141" keyframe="1" outside="0" occluded="0" xtl="646.55" ytl="484.73" xbr="697.50" ybr="778.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="142" keyframe="0" outside="0" occluded="0" xtl="661.18" ytl="475.52" xbr="712.13" ybr="778.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="143" keyframe="1" outside="0" occluded="0" xtl="675.81" ytl="466.30" xbr="726.76" ybr="778.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="144" keyframe="1" outside="0" occluded="0" xtl="717.61" ytl="457.10" xbr="768.56" ybr="783.42" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="145" keyframe="1" outside="0" occluded="0" xtl="761.09" ytl="443.70" xbr="812.03" ybr="799.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="146" keyframe="1" outside="0" occluded="0" xtl="791.19" ytl="458.75" xbr="842.13" ybr="814.35" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="147" keyframe="1" outside="0" occluded="0" xtl="801.22" ytl="465.44" xbr="852.16" ybr="821.04" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="148" keyframe="1" outside="0" occluded="0" xtl="813.76" ytl="478.81" xbr="864.70" ybr="834.42" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="149" keyframe="1" outside="0" occluded="0" xtl="820.45" ytl="506.40" xbr="871.39" ybr="862.01" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="150" keyframe="1" outside="0" occluded="0" xtl="807.09" ytl="483.90" xbr="868.88" ybr="889.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="151" keyframe="1" outside="0" occluded="0" xtl="789.76" ytl="494.31" xbr="851.55" ybr="900.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="152" keyframe="1" outside="0" occluded="0" xtl="765.49" ytl="508.17" xbr="827.28" ybr="913.87" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="153" keyframe="1" outside="0" occluded="0" xtl="748.20" ytl="501.20" xbr="816.87" ybr="965.87" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="154" keyframe="1" outside="0" occluded="0" xtl="720.50" ytl="515.10" xbr="827.28" ybr="1035.22" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="155" keyframe="1" outside="0" occluded="0" xtl="699.70" ytl="518.60" xbr="822.07" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="156" keyframe="1" outside="0" occluded="0" xtl="687.60" ytl="537.70" xbr="818.61" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="157" keyframe="1" outside="0" occluded="0" xtl="652.90" ytl="539.40" xbr="796.07" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="158" keyframe="1" outside="0" occluded="0" xtl="616.50" ytl="532.50" xbr="761.40" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="159" keyframe="1" outside="0" occluded="0" xtl="561.00" ytl="544.60" xbr="711.13" ybr="1078.27" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="160" keyframe="1" outside="0" occluded="0" xtl="503.80" ytl="561.90" xbr="664.32" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="161" keyframe="1" outside="0" occluded="0" xtl="415.40" ytl="575.80" xbr="610.58" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="162" keyframe="1" outside="0" occluded="0" xtl="288.80" ytl="601.80" xbr="482.29" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="163" keyframe="1" outside="0" occluded="0" xtl="106.80" ytl="626.10" xbr="315.87" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="164" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="695.44" xbr="88.76" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="165" keyframe="1" outside="1" occluded="0" xtl="0.00" ytl="695.44" xbr="88.76" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="15" label="objetoSolido" source="semi-auto">
+    <box frame="127" keyframe="1" outside="0" occluded="0" xtl="47.52" ytl="0.00" xbr="115.13" ybr="623.07" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="128" keyframe="1" outside="0" occluded="0" xtl="56.58" ytl="0.00" xbr="133.30" ybr="689.11" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="129" keyframe="1" outside="0" occluded="0" xtl="61.76" ytl="0.00" xbr="126.80" ybr="748.68" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="130" keyframe="1" outside="0" occluded="0" xtl="44.93" ytl="0.00" xbr="144.90" ybr="801.78" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="131" keyframe="1" outside="0" occluded="0" xtl="59.17" ytl="0.00" xbr="157.90" ybr="841.92" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="132" keyframe="1" outside="0" occluded="0" xtl="69.53" ytl="0.00" xbr="165.70" ybr="866.52" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="133" keyframe="1" outside="0" occluded="0" xtl="127.80" ytl="0.00" xbr="227.90" ybr="871.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="134" keyframe="1" outside="0" occluded="0" xtl="169.24" ytl="0.00" xbr="252.50" ybr="876.88" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="135" keyframe="1" outside="0" occluded="0" xtl="211.98" ytl="1.29" xbr="295.23" ybr="878.18" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="136" keyframe="1" outside="0" occluded="0" xtl="254.71" ytl="1.29" xbr="337.97" ybr="878.18" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="137" keyframe="1" outside="0" occluded="0" xtl="293.56" ytl="0.00" xbr="370.30" ybr="891.13" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="138" keyframe="1" outside="0" occluded="0" xtl="296.15" ytl="0.00" xbr="379.40" ybr="931.27" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="139" keyframe="1" outside="0" occluded="0" xtl="237.88" ytl="0.00" xbr="327.60" ybr="951.99" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="140" keyframe="1" outside="0" occluded="0" xtl="217.16" ytl="0.00" xbr="304.30" ybr="971.41" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="141" keyframe="1" outside="0" occluded="0" xtl="188.69" ytl="0.00" xbr="275.80" ybr="1002.88" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="142" keyframe="1" outside="0" occluded="0" xtl="179.70" ytl="0.00" xbr="250.30" ybr="1019.36" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="143" keyframe="1" outside="0" occluded="0" xtl="163.22" ytl="0.00" xbr="232.30" ybr="1046.33" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="144" keyframe="1" outside="0" occluded="0" xtl="160.22" ytl="0.00" xbr="236.80" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="145" keyframe="1" outside="0" occluded="0" xtl="169.21" ytl="0.00" xbr="256.30" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="146" keyframe="1" outside="0" occluded="0" xtl="137.75" ytl="0.00" xbr="224.80" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="147" keyframe="1" outside="0" occluded="0" xtl="82.31" ytl="0.00" xbr="169.40" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="148" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="0.00" xbr="87.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="149" keyframe="1" outside="1" occluded="0" xtl="0.00" ytl="0.00" xbr="87.00" ybr="1080.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="16" label="objetoSolido" source="semi-auto">
+    <box frame="127" keyframe="1" outside="0" occluded="0" xtl="343.89" ytl="179.08" xbr="526.69" ybr="537.18" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="128" keyframe="1" outside="0" occluded="0" xtl="380.83" ytl="194.75" xbr="563.62" ybr="581.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="129" keyframe="1" outside="0" occluded="0" xtl="406.57" ytl="245.11" xbr="589.36" ybr="632.26" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="130" keyframe="1" outside="0" occluded="0" xtl="421.12" ytl="268.62" xbr="603.91" ybr="655.77" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="131" keyframe="1" outside="0" occluded="0" xtl="453.58" ytl="318.98" xbr="636.37" ybr="706.13" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="132" keyframe="1" outside="0" occluded="0" xtl="494.99" ytl="336.89" xbr="677.78" ybr="724.04" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="133" keyframe="1" outside="0" occluded="0" xtl="572.21" ytl="344.72" xbr="755.01" ybr="731.87" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="134" keyframe="1" outside="0" occluded="0" xtl="634.89" ytl="326.81" xbr="817.68" ybr="713.97" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="135" keyframe="1" outside="0" occluded="0" xtl="691.97" ytl="334.65" xbr="889.30" ybr="721.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="136" keyframe="1" outside="0" occluded="0" xtl="754.64" ytl="321.22" xbr="975.50" ybr="708.37" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="137" keyframe="1" outside="0" occluded="0" xtl="799.41" ytl="331.29" xbr="1020.27" ybr="718.44" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="138" keyframe="1" outside="0" occluded="0" xtl="830.75" ytl="331.29" xbr="1051.61" ybr="718.44" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="139" keyframe="1" outside="0" occluded="0" xtl="824.95" ytl="340.00" xbr="1045.80" ybr="727.15" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="140" keyframe="1" outside="0" occluded="0" xtl="839.46" ytl="338.06" xbr="1060.31" ybr="725.21" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="141" keyframe="1" outside="0" occluded="0" xtl="860.74" ytl="235.50" xbr="1089.30" ybr="747.46" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="142" keyframe="1" outside="0" occluded="0" xtl="876.21" ytl="227.76" xbr="1104.78" ybr="739.72" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="143" keyframe="1" outside="0" occluded="0" xtl="876.21" ytl="227.76" xbr="1150.20" ybr="739.72" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="144" keyframe="1" outside="0" occluded="0" xtl="938.12" ytl="246.14" xbr="1223.70" ybr="758.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="145" keyframe="1" outside="0" occluded="0" xtl="993.26" ytl="246.14" xbr="1278.84" ybr="758.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="146" keyframe="1" outside="0" occluded="0" xtl="1041.62" ytl="264.52" xbr="1327.20" ybr="776.48" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="147" keyframe="1" outside="0" occluded="0" xtl="1041.62" ytl="264.52" xbr="1335.90" ybr="776.48" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="148" keyframe="1" outside="0" occluded="0" xtl="1077.42" ytl="217.10" xbr="1387.20" ybr="791.96" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="149" keyframe="1" outside="0" occluded="0" xtl="1091.92" ytl="220.00" xbr="1401.71" ybr="794.86" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="150" keyframe="1" outside="0" occluded="0" xtl="1103.58" ytl="121.20" xbr="1413.36" ybr="818.17" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="151" keyframe="1" outside="0" occluded="0" xtl="1102.30" ytl="91.40" xbr="1417.25" ybr="827.24" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="152" keyframe="1" outside="0" occluded="0" xtl="1095.83" ytl="88.80" xbr="1426.30" ybr="866.09" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="153" keyframe="1" outside="0" occluded="0" xtl="1090.60" ytl="61.60" xbr="1437.96" ybr="868.67" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="154" keyframe="1" outside="0" occluded="0" xtl="1093.20" ytl="39.60" xbr="1458.68" ybr="894.57" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="155" keyframe="1" outside="0" occluded="0" xtl="1093.20" ytl="21.50" xbr="1485.87" ybr="912.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="156" keyframe="1" outside="0" occluded="0" xtl="1068.93" ytl="-4.51" xbr="1461.60" ybr="886.70" rotation="347.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="157" keyframe="1" outside="0" occluded="0" xtl="1071.97" ytl="10.70" xbr="1499.77" ybr="901.90" rotation="347.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="158" keyframe="1" outside="0" occluded="0" xtl="1009.14" ytl="-38.19" xbr="1479.35" ybr="924.75" rotation="341.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="159" keyframe="1" outside="0" occluded="0" xtl="1052.49" ytl="-19.12" xbr="1522.69" ybr="943.82" rotation="344.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="160" keyframe="1" outside="0" occluded="0" xtl="936.63" ytl="-34.57" xbr="1454.79" ybr="1000.89" rotation="331.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="161" keyframe="1" outside="0" occluded="0" xtl="1075.32" ytl="-8.57" xbr="1593.48" ybr="1026.90" rotation="351.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="162" keyframe="1" outside="0" occluded="0" xtl="1064.92" ytl="-7.39" xbr="1583.08" ybr="1028.07" rotation="351.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="163" keyframe="1" outside="0" occluded="0" xtl="1040.65" ytl="-10.30" xbr="1558.81" ybr="1025.17" rotation="351.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="164" keyframe="1" outside="0" occluded="0" xtl="948.47" ytl="-54.47" xbr="1496.64" ybr="1025.96" rotation="351.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="165" keyframe="1" outside="0" occluded="0" xtl="896.68" ytl="-39.72" xbr="1479.50" ybr="1040.72" rotation="351.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="166" keyframe="1" outside="0" occluded="0" xtl="848.14" ytl="-32.78" xbr="1430.96" ybr="1047.65" rotation="351.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="167" keyframe="1" outside="0" occluded="0" xtl="642.53" ytl="-117.49" xbr="1225.36" ybr="1109.03" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="168" keyframe="1" outside="0" occluded="0" xtl="402.80" ytl="-74.65" xbr="1141.51" ybr="1151.87" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="169" keyframe="1" outside="0" occluded="0" xtl="178.15" ytl="-127.04" xbr="989.78" ybr="1202.49" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="170" keyframe="1" outside="0" occluded="0" xtl="-161.38" ytl="-118.40" xbr="928.34" ybr="1305.20" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="171" keyframe="1" outside="0" occluded="0" xtl="-139.26" ytl="-96.06" xbr="768.54" ybr="1327.53" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="172" keyframe="1" outside="0" occluded="0" xtl="-154.56" ytl="-76.27" xbr="665.19" ybr="1347.32" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="173" keyframe="1" outside="0" occluded="0" xtl="-170.76" ytl="-2.88" xbr="464.93" ybr="1250.04" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="174" keyframe="1" outside="0" occluded="0" xtl="-141.67" ytl="33.91" xbr="291.99" ybr="1286.83" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="175" keyframe="1" outside="1" occluded="0" xtl="-141.67" ytl="33.91" xbr="291.99" ybr="1286.83" rotation="336.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="17" label="objetoSolido" source="semi-auto">
+    <box frame="169" keyframe="1" outside="0" occluded="0" xtl="1412.08" ytl="189.02" xbr="1704.50" ybr="483.76" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="170" keyframe="1" outside="0" occluded="0" xtl="1269.92" ytl="213.29" xbr="1562.34" ybr="508.03" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="171" keyframe="1" outside="0" occluded="0" xtl="1131.23" ytl="227.15" xbr="1423.66" ybr="521.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="172" keyframe="1" outside="0" occluded="0" xtl="1015.08" ytl="273.96" xbr="1307.50" ybr="568.70" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="173" keyframe="1" outside="0" occluded="0" xtl="918.00" ytl="275.70" xbr="1210.42" ybr="603.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="174" keyframe="1" outside="0" occluded="0" xtl="801.45" ytl="334.24" xbr="1093.87" ybr="661.95" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="175" keyframe="1" outside="0" occluded="0" xtl="663.79" ytl="328.65" xbr="956.21" ybr="712.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="176" keyframe="1" outside="0" occluded="0" xtl="579.85" ytl="392.44" xbr="872.27" ybr="776.09" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="177" keyframe="1" outside="0" occluded="0" xtl="529.49" ytl="423.78" xbr="821.91" ybr="807.43" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="178" keyframe="1" outside="0" occluded="0" xtl="460.09" ytl="475.26" xbr="752.52" ybr="858.92" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="179" keyframe="1" outside="0" occluded="0" xtl="330.10" ytl="475.26" xbr="752.52" ybr="928.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="180" keyframe="1" outside="0" occluded="0" xtl="267.69" ytl="504.73" xbr="690.10" ybr="957.77" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="181" keyframe="1" outside="0" occluded="0" xtl="259.02" ytl="509.93" xbr="681.44" ybr="962.97" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="182" keyframe="1" outside="0" occluded="0" xtl="203.55" ytl="527.27" xbr="625.96" ybr="980.31" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="183" keyframe="1" outside="0" occluded="0" xtl="168.87" ytl="501.27" xbr="591.29" ybr="954.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="184" keyframe="1" outside="0" occluded="0" xtl="168.87" ytl="501.27" xbr="591.29" ybr="1008.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="185" keyframe="1" outside="0" occluded="0" xtl="90.90" ytl="468.33" xbr="615.56" ybr="1014.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="186" keyframe="1" outside="0" occluded="0" xtl="54.50" ytl="445.79" xbr="579.16" ybr="1021.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="187" keyframe="1" outside="0" occluded="0" xtl="23.30" ytl="412.85" xbr="582.62" ybr="1033.90" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="188" keyframe="0" outside="0" occluded="0" xtl="20.41" ytl="410.54" xbr="579.73" ybr="1031.59" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="189" keyframe="0" outside="0" occluded="0" xtl="17.52" ytl="408.23" xbr="576.84" ybr="1029.28" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="190" keyframe="1" outside="0" occluded="0" xtl="14.63" ytl="405.92" xbr="573.95" ybr="1026.97" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="191" keyframe="0" outside="0" occluded="0" xtl="7.32" ytl="383.38" xbr="557.49" ybr="1041.68" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="192" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="360.85" xbr="541.02" ybr="1056.40" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="193" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="359.55" xbr="518.48" ybr="1055.10" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="194" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="358.25" xbr="495.94" ybr="1053.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="195" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="356.94" xbr="473.41" ybr="1052.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="196" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="355.64" xbr="450.87" ybr="1051.20" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="197" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="357.38" xbr="331.25" ybr="1052.93" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="198" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="350.44" xbr="293.11" ybr="1046.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="199" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="350.44" xbr="187.36" ybr="1046.00" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="200" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="371.25" xbr="157.89" ybr="1066.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="201" keyframe="1" outside="1" occluded="0" xtl="0.00" ytl="371.25" xbr="157.89" ybr="1066.80" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="18" label="objetoSolido" source="semi-auto">
+    <box frame="179" keyframe="1" outside="0" occluded="0" xtl="1422.26" ytl="328.36" xbr="1746.44" ybr="524.26" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="180" keyframe="1" outside="0" occluded="0" xtl="1384.10" ytl="357.83" xbr="1744.71" ybr="553.73" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="181" keyframe="1" outside="0" occluded="0" xtl="1384.10" ytl="357.83" xbr="1744.71" ybr="581.50" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="182" keyframe="1" outside="0" occluded="0" xtl="1370.20" ytl="399.44" xbr="1770.71" ybr="623.11" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="183" keyframe="0" outside="0" occluded="0" xtl="1378.87" ytl="404.64" xbr="1779.38" ybr="628.31" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="184" keyframe="1" outside="0" occluded="0" xtl="1387.54" ytl="409.84" xbr="1788.04" ybr="633.51" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="185" keyframe="0" outside="0" occluded="0" xtl="1362.42" ytl="409.84" xbr="1788.04" ybr="633.51" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="186" keyframe="1" outside="0" occluded="0" xtl="1337.30" ytl="409.84" xbr="1788.04" ybr="633.51" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="187" keyframe="0" outside="0" occluded="0" xtl="1388.44" ytl="423.71" xbr="1839.19" ybr="647.38" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="188" keyframe="1" outside="0" occluded="0" xtl="1439.58" ytl="437.58" xbr="1890.33" ybr="661.25" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="189" keyframe="1" outside="0" occluded="0" xtl="1415.22" ytl="445.31" xbr="1893.71" ybr="668.97" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="190" keyframe="1" outside="0" occluded="0" xtl="1430.76" ytl="447.90" xbr="1909.25" ybr="671.56" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="191" keyframe="0" outside="0" occluded="0" xtl="1403.58" ytl="447.90" xbr="1909.25" ybr="671.56" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="192" keyframe="1" outside="0" occluded="0" xtl="1376.40" ytl="447.90" xbr="1909.25" ybr="671.56" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="193" keyframe="0" outside="0" occluded="0" xtl="1372.08" ytl="450.05" xbr="1904.93" ybr="673.72" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="194" keyframe="0" outside="0" occluded="0" xtl="1367.77" ytl="452.21" xbr="1900.62" ybr="675.88" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="195" keyframe="1" outside="0" occluded="0" xtl="1363.45" ytl="454.37" xbr="1896.30" ybr="678.04" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="196" keyframe="1" outside="0" occluded="0" xtl="1430.80" ytl="511.30" xbr="1920.00" ybr="793.29" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="197" keyframe="0" outside="0" occluded="0" xtl="1384.85" ytl="499.00" xbr="1914.82" ybr="780.99" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="198" keyframe="1" outside="0" occluded="0" xtl="1338.90" ytl="486.70" xbr="1909.64" ybr="768.69" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="199" keyframe="0" outside="0" occluded="0" xtl="1316.86" ytl="436.84" xbr="1911.58" ybr="748.61" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="200" keyframe="1" outside="0" occluded="0" xtl="1294.83" ytl="386.98" xbr="1913.53" ybr="728.53" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="201" keyframe="1" outside="0" occluded="0" xtl="1303.89" ytl="412.88" xbr="1920.00" ybr="754.43" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="202" keyframe="0" outside="0" occluded="0" xtl="1231.24" ytl="531.84" xbr="1935.67" ybr="791.53" rotation="12.30" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="203" keyframe="1" outside="0" occluded="0" xtl="1158.59" ytl="650.79" xbr="1951.34" ybr="828.64" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="204" keyframe="0" outside="0" occluded="0" xtl="1157.29" ytl="652.73" xbr="1950.05" ybr="830.58" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="205" keyframe="0" outside="0" occluded="0" xtl="1156.00" ytl="654.67" xbr="1948.75" ybr="832.53" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="206" keyframe="0" outside="0" occluded="0" xtl="1154.71" ytl="656.62" xbr="1947.46" ybr="834.47" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="207" keyframe="0" outside="0" occluded="0" xtl="1153.41" ytl="658.56" xbr="1946.16" ybr="836.41" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="208" keyframe="0" outside="0" occluded="0" xtl="1152.12" ytl="660.50" xbr="1944.87" ybr="838.35" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="209" keyframe="1" outside="0" occluded="0" xtl="1150.82" ytl="662.44" xbr="1943.57" ybr="840.30" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="210" keyframe="0" outside="0" occluded="0" xtl="1147.03" ytl="670.52" xbr="1950.21" ybr="838.18" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="211" keyframe="0" outside="0" occluded="0" xtl="1143.24" ytl="678.60" xbr="1956.85" ybr="836.06" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="212" keyframe="0" outside="0" occluded="0" xtl="1139.44" ytl="686.68" xbr="1963.49" ybr="833.95" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="213" keyframe="0" outside="0" occluded="0" xtl="1135.65" ytl="694.75" xbr="1970.13" ybr="831.83" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="214" keyframe="1" outside="0" occluded="0" xtl="1131.86" ytl="702.83" xbr="1976.77" ybr="829.72" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="215" keyframe="0" outside="0" occluded="0" xtl="1128.41" ytl="700.67" xbr="1973.32" ybr="827.56" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="216" keyframe="0" outside="0" occluded="0" xtl="1124.95" ytl="698.51" xbr="1969.87" ybr="825.40" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="217" keyframe="1" outside="0" occluded="0" xtl="1121.50" ytl="696.36" xbr="1966.41" ybr="823.24" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="218" keyframe="0" outside="0" occluded="0" xtl="1128.41" ytl="689.45" xbr="1973.32" ybr="816.34" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="219" keyframe="0" outside="0" occluded="0" xtl="1135.31" ytl="682.54" xbr="1980.23" ybr="809.43" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="220" keyframe="1" outside="0" occluded="0" xtl="1142.22" ytl="675.64" xbr="1987.13" ybr="802.52" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="221" keyframe="0" outside="0" occluded="0" xtl="1145.89" ytl="673.48" xbr="1990.80" ybr="800.36" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="222" keyframe="0" outside="0" occluded="0" xtl="1149.56" ytl="671.32" xbr="1994.47" ybr="798.21" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="223" keyframe="0" outside="0" occluded="0" xtl="1153.22" ytl="669.16" xbr="1998.14" ybr="796.05" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="224" keyframe="0" outside="0" occluded="0" xtl="1156.89" ytl="667.00" xbr="2001.81" ybr="793.89" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="225" keyframe="0" outside="0" occluded="0" xtl="1160.56" ytl="664.84" xbr="2005.48" ybr="791.73" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="226" keyframe="1" outside="0" occluded="0" xtl="1164.23" ytl="662.69" xbr="2009.15" ybr="789.57" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="227" keyframe="0" outside="0" occluded="0" xtl="1154.82" ytl="664.72" xbr="2005.53" ybr="791.60" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="228" keyframe="0" outside="0" occluded="0" xtl="1145.40" ytl="666.75" xbr="2001.90" ybr="793.64" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="229" keyframe="0" outside="0" occluded="0" xtl="1135.98" ytl="668.78" xbr="1998.28" ybr="795.67" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="230" keyframe="0" outside="0" occluded="0" xtl="1126.57" ytl="670.81" xbr="1994.66" ybr="797.70" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="231" keyframe="0" outside="0" occluded="0" xtl="1117.15" ytl="672.84" xbr="1991.04" ybr="799.73" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="232" keyframe="0" outside="0" occluded="0" xtl="1107.74" ytl="674.87" xbr="1987.42" ybr="801.76" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="233" keyframe="0" outside="0" occluded="0" xtl="1098.32" ytl="676.91" xbr="1983.80" ybr="803.79" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="234" keyframe="1" outside="0" occluded="0" xtl="1088.90" ytl="678.94" xbr="1980.17" ybr="805.82" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="235" keyframe="1" outside="0" occluded="0" xtl="1075.95" ytl="699.66" xbr="1967.22" ybr="826.54" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="236" keyframe="1" outside="0" occluded="0" xtl="1045.84" ytl="621.73" xbr="1984.21" ybr="819.98" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="237" keyframe="1" outside="0" occluded="0" xtl="1031.59" ytl="659.29" xbr="1969.97" ybr="857.53" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="238" keyframe="0" outside="0" occluded="0" xtl="979.46" ytl="653.50" xbr="1964.31" ybr="851.74" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+    <box frame="239" keyframe="1" outside="0" occluded="0" xtl="927.32" ytl="647.71" xbr="1958.65" ybr="845.95" rotation="24.60" z_order="0">
+      <attribute name="estado">reposo</attribute>
+    </box>
+  </track>
+  <track id="19" label="vehiculo" source="semi-auto">
+    <box frame="184" keyframe="1" outside="0" occluded="0" xtl="1007.38" ytl="515.82" xbr="1163.17" ybr="577.60" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="185" keyframe="1" outside="0" occluded="0" xtl="1008.02" ytl="519.64" xbr="1163.81" ybr="581.42" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="186" keyframe="0" outside="0" occluded="0" xtl="1004.86" ytl="515.19" xbr="1168.26" ybr="580.81" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="187" keyframe="1" outside="0" occluded="0" xtl="1001.70" ytl="510.73" xbr="1172.71" ybr="580.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="188" keyframe="1" outside="0" occluded="0" xtl="1011.88" ytl="512.64" xbr="1182.89" ybr="582.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="189" keyframe="0" outside="0" occluded="0" xtl="1011.88" ytl="513.70" xbr="1182.89" ybr="583.17" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="190" keyframe="0" outside="0" occluded="0" xtl="1011.88" ytl="514.76" xbr="1182.89" ybr="584.23" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="191" keyframe="1" outside="0" occluded="0" xtl="1011.88" ytl="515.82" xbr="1182.89" ybr="585.29" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="192" keyframe="0" outside="0" occluded="0" xtl="1011.56" ytl="519.96" xbr="1182.57" ybr="589.42" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="193" keyframe="1" outside="0" occluded="0" xtl="1011.24" ytl="524.09" xbr="1182.25" ybr="593.55" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="194" keyframe="0" outside="0" occluded="0" xtl="1002.66" ytl="530.45" xbr="1173.67" ybr="599.91" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="195" keyframe="1" outside="0" occluded="0" xtl="994.07" ytl="536.81" xbr="1165.08" ybr="606.27" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="196" keyframe="0" outside="0" occluded="0" xtl="967.68" ytl="541.26" xbr="1138.69" ybr="610.73" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="197" keyframe="1" outside="0" occluded="0" xtl="941.29" ytl="545.71" xbr="1112.30" ybr="615.18" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="198" keyframe="0" outside="0" occluded="0" xtl="910.44" ytl="547.94" xbr="1081.45" ybr="617.40" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="199" keyframe="1" outside="0" occluded="0" xtl="879.59" ytl="550.17" xbr="1050.60" ybr="619.63" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="200" keyframe="0" outside="0" occluded="0" xtl="843.66" ytl="552.71" xbr="1014.67" ybr="622.17" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="201" keyframe="1" outside="0" occluded="0" xtl="807.73" ytl="555.25" xbr="978.74" ybr="624.72" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="202" keyframe="0" outside="0" occluded="0" xtl="800.10" ytl="555.25" xbr="971.11" ybr="624.72" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="203" keyframe="1" outside="0" occluded="0" xtl="792.46" ytl="555.25" xbr="963.47" ybr="624.72" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="204" keyframe="1" outside="0" occluded="0" xtl="783.56" ytl="553.98" xbr="954.57" ybr="623.44" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="205" keyframe="1" outside="0" occluded="0" xtl="791.83" ytl="550.80" xbr="962.84" ybr="620.26" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="206" keyframe="1" outside="0" occluded="0" xtl="803.91" ytl="542.53" xbr="974.92" ybr="612.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="207" keyframe="0" outside="0" occluded="0" xtl="802.63" ytl="541.74" xbr="978.26" ybr="613.75" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="208" keyframe="0" outside="0" occluded="0" xtl="801.36" ytl="540.94" xbr="981.60" ybr="615.50" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="209" keyframe="0" outside="0" occluded="0" xtl="800.08" ytl="540.15" xbr="984.94" ybr="617.25" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="210" keyframe="1" outside="0" occluded="0" xtl="798.80" ytl="539.35" xbr="988.28" ybr="619.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="211" keyframe="1" outside="0" occluded="0" xtl="790.53" ytl="539.99" xbr="980.01" ybr="619.64" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="212" keyframe="0" outside="0" occluded="0" xtl="793.39" ytl="542.45" xbr="982.87" ybr="622.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="213" keyframe="0" outside="0" occluded="0" xtl="796.26" ytl="544.92" xbr="985.73" ybr="624.56" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="214" keyframe="0" outside="0" occluded="0" xtl="799.12" ytl="547.38" xbr="988.60" ybr="627.03" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="215" keyframe="0" outside="0" occluded="0" xtl="801.98" ytl="549.85" xbr="991.46" ybr="629.49" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="216" keyframe="0" outside="0" occluded="0" xtl="804.84" ytl="552.31" xbr="994.32" ybr="631.96" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="217" keyframe="0" outside="0" occluded="0" xtl="807.70" ytl="554.78" xbr="997.18" ybr="634.42" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="218" keyframe="0" outside="0" occluded="0" xtl="810.57" ytl="557.24" xbr="1000.04" ybr="636.89" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="219" keyframe="1" outside="0" occluded="0" xtl="813.43" ytl="559.70" xbr="1002.91" ybr="639.35" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="220" keyframe="1" outside="0" occluded="0" xtl="812.79" ytl="541.90" xbr="1002.27" ybr="621.54" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="221" keyframe="1" outside="0" occluded="0" xtl="808.98" ytl="541.90" xbr="998.45" ybr="621.54" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="222" keyframe="0" outside="0" occluded="0" xtl="812.58" ytl="542.32" xbr="1002.06" ybr="621.97" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="223" keyframe="0" outside="0" occluded="0" xtl="816.18" ytl="542.74" xbr="1005.66" ybr="622.39" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="224" keyframe="1" outside="0" occluded="0" xtl="819.79" ytl="543.17" xbr="1009.26" ybr="622.82" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="225" keyframe="0" outside="0" occluded="0" xtl="822.97" ytl="544.12" xbr="1012.44" ybr="623.77" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="226" keyframe="1" outside="0" occluded="0" xtl="826.15" ytl="545.08" xbr="1015.62" ybr="624.72" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="227" keyframe="0" outside="0" occluded="0" xtl="833.78" ytl="545.71" xbr="1023.26" ybr="625.36" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="228" keyframe="1" outside="0" occluded="0" xtl="841.41" ytl="546.35" xbr="1030.89" ybr="626.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="229" keyframe="0" outside="0" occluded="0" xtl="841.41" ytl="546.35" xbr="1040.44" ybr="626.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="230" keyframe="1" outside="0" occluded="0" xtl="841.41" ytl="546.35" xbr="1050.00" ybr="626.00" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="231" keyframe="0" outside="0" occluded="0" xtl="819.47" ytl="549.21" xbr="1028.06" ybr="628.86" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="232" keyframe="1" outside="0" occluded="0" xtl="797.53" ytl="552.07" xbr="1006.12" ybr="631.72" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="233" keyframe="1" outside="0" occluded="0" xtl="767.64" ytl="550.17" xbr="976.23" ybr="629.81" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="234" keyframe="0" outside="0" occluded="0" xtl="734.25" ytl="552.39" xbr="942.84" ybr="632.04" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="235" keyframe="1" outside="0" occluded="0" xtl="700.86" ytl="554.62" xbr="909.45" ybr="634.27" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="236" keyframe="1" outside="0" occluded="0" xtl="661.43" ytl="557.16" xbr="870.02" ybr="636.81" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="237" keyframe="1" outside="0" occluded="0" xtl="625.81" ytl="563.52" xbr="834.40" ybr="643.17" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="238" keyframe="1" outside="0" occluded="0" xtl="615.64" ytl="560.34" xbr="824.23" ybr="639.99" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="239" keyframe="1" outside="0" occluded="0" xtl="588.90" ytl="557.80" xbr="807.05" ybr="645.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+  </track>
+  <track id="20" label="vehiculo" source="semi-auto">
+    <box frame="195" keyframe="1" outside="0" occluded="0" xtl="496.18" ytl="587.86" xbr="702.36" ybr="658.65" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="196" keyframe="1" outside="0" occluded="0" xtl="470.52" ytl="597.84" xbr="676.70" ybr="668.63" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="197" keyframe="1" outside="0" occluded="0" xtl="413.51" ytl="599.74" xbr="619.69" ybr="670.53" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="198" keyframe="1" outside="0" occluded="0" xtl="368.85" ytl="605.44" xbr="575.04" ybr="676.23" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="199" keyframe="1" outside="0" occluded="0" xtl="294.72" ytl="605.92" xbr="546.06" ybr="697.57" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="200" keyframe="1" outside="0" occluded="0" xtl="277.06" ytl="608.86" xbr="528.40" ybr="700.52" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="201" keyframe="1" outside="0" occluded="0" xtl="232.17" ytl="607.39" xbr="483.51" ybr="699.05" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="202" keyframe="1" outside="0" occluded="0" xtl="207.89" ytl="607.39" xbr="459.22" ybr="699.05" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="203" keyframe="1" outside="0" occluded="0" xtl="202.00" ytl="600.03" xbr="453.34" ybr="691.69" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="204" keyframe="1" outside="0" occluded="0" xtl="197.59" ytl="586.78" xbr="439.40" ybr="669.60" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="205" keyframe="1" outside="0" occluded="0" xtl="188.02" ytl="582.37" xbr="437.20" ybr="669.60" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="206" keyframe="1" outside="0" occluded="0" xtl="196.12" ytl="573.54" xbr="445.29" ybr="660.77" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="207" keyframe="1" outside="0" occluded="0" xtl="193.17" ytl="571.33" xbr="442.35" ybr="658.56" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="208" keyframe="0" outside="0" occluded="0" xtl="190.72" ytl="574.03" xbr="439.90" ybr="661.26" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="209" keyframe="0" outside="0" occluded="0" xtl="188.27" ytl="576.73" xbr="437.45" ybr="663.96" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="210" keyframe="1" outside="0" occluded="0" xtl="185.81" ytl="579.43" xbr="434.99" ybr="666.66" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="211" keyframe="0" outside="0" occluded="0" xtl="183.61" ytl="579.06" xbr="432.79" ybr="666.29" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="212" keyframe="1" outside="0" occluded="0" xtl="181.40" ytl="578.69" xbr="430.58" ybr="665.92" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="213" keyframe="1" outside="0" occluded="0" xtl="174.04" ytl="580.16" xbr="423.22" ybr="667.39" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="214" keyframe="0" outside="0" occluded="0" xtl="169.62" ytl="582.00" xbr="418.80" ybr="669.23" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="215" keyframe="1" outside="0" occluded="0" xtl="165.21" ytl="583.84" xbr="414.39" ybr="671.07" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="216" keyframe="0" outside="0" occluded="0" xtl="161.53" ytl="584.82" xbr="410.71" ybr="672.05" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="217" keyframe="0" outside="0" occluded="0" xtl="157.85" ytl="585.80" xbr="407.03" ybr="673.03" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="218" keyframe="1" outside="0" occluded="0" xtl="154.17" ytl="586.79" xbr="403.35" ybr="674.02" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="219" keyframe="1" outside="0" occluded="0" xtl="183.61" ytl="608.86" xbr="432.79" ybr="696.09" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="220" keyframe="1" outside="0" occluded="0" xtl="160.06" ytl="590.46" xbr="409.24" ybr="677.70" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="221" keyframe="1" outside="0" occluded="0" xtl="158.59" ytl="586.05" xbr="407.77" ybr="673.28" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="222" keyframe="1" outside="0" occluded="0" xtl="163.74" ytl="588.99" xbr="412.92" ybr="676.22" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="223" keyframe="0" outside="0" occluded="0" xtl="169.33" ytl="588.85" xbr="418.51" ybr="676.08" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="224" keyframe="0" outside="0" occluded="0" xtl="174.92" ytl="588.70" xbr="424.10" ybr="675.93" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="225" keyframe="0" outside="0" occluded="0" xtl="180.52" ytl="588.55" xbr="429.70" ybr="675.78" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="226" keyframe="0" outside="0" occluded="0" xtl="186.11" ytl="588.40" xbr="435.29" ybr="675.64" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="227" keyframe="1" outside="0" occluded="0" xtl="191.70" ytl="588.26" xbr="440.88" ybr="675.49" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="228" keyframe="0" outside="0" occluded="0" xtl="189.23" ytl="589.73" xbr="438.92" ybr="682.36" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="229" keyframe="0" outside="0" occluded="0" xtl="186.77" ytl="591.20" xbr="436.96" ybr="689.23" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="230" keyframe="1" outside="0" occluded="0" xtl="184.30" ytl="592.67" xbr="434.99" ybr="696.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="231" keyframe="1" outside="0" occluded="0" xtl="175.47" ytl="592.67" xbr="426.16" ybr="696.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="232" keyframe="1" outside="0" occluded="0" xtl="119.54" ytl="600.77" xbr="370.24" ybr="704.19" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="233" keyframe="1" outside="0" occluded="0" xtl="90.11" ytl="602.98" xbr="340.80" ybr="706.40" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="234" keyframe="1" outside="0" occluded="0" xtl="37.86" ytl="611.81" xbr="288.56" ybr="715.23" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="235" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="619.90" xbr="226.70" ybr="723.33" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="236" keyframe="0" outside="0" occluded="0" xtl="0.00" ytl="621.37" xbr="202.05" ybr="724.80" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="237" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="622.85" xbr="177.40" ybr="726.27" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="238" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="622.85" xbr="153.11" ybr="726.27" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="239" keyframe="1" outside="0" occluded="0" xtl="0.00" ytl="624.32" xbr="125.15" ybr="727.74" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+  </track>
+  <track id="21" label="vehiculo" source="semi-auto">
+    <box frame="195" keyframe="1" outside="0" occluded="0" xtl="721.06" ytl="592.76" xbr="828.15" ybr="628.81" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="196" keyframe="1" outside="0" occluded="0" xtl="704.36" ytl="598.59" xbr="811.45" ybr="634.64" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="197" keyframe="1" outside="0" occluded="0" xtl="655.85" ytl="602.57" xbr="762.94" ybr="638.62" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="198" keyframe="1" outside="0" occluded="0" xtl="638.09" ytl="607.87" xbr="745.18" ybr="643.92" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="199" keyframe="1" outside="0" occluded="0" xtl="599.92" ytl="610.78" xbr="707.01" ybr="646.84" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="200" keyframe="1" outside="0" occluded="0" xtl="561.74" ytl="613.96" xbr="668.84" ybr="650.02" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="201" keyframe="1" outside="0" occluded="0" xtl="527.81" ytl="614.50" xbr="634.91" ybr="650.55" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="202" keyframe="1" outside="0" occluded="0" xtl="480.13" ytl="605.75" xbr="608.93" ybr="654.51" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="203" keyframe="1" outside="0" occluded="0" xtl="471.91" ytl="600.45" xbr="600.71" ybr="649.21" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="204" keyframe="1" outside="0" occluded="0" xtl="475.09" ytl="594.61" xbr="603.89" ybr="643.37" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="205" keyframe="1" outside="0" occluded="0" xtl="470.06" ytl="586.66" xbr="598.85" ybr="635.42" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="206" keyframe="1" outside="0" occluded="0" xtl="486.76" ytl="584.28" xbr="615.55" ybr="633.04" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="207" keyframe="1" outside="0" occluded="0" xtl="478.80" ytl="578.44" xbr="619.80" ybr="628.10" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="208" keyframe="1" outside="0" occluded="0" xtl="481.45" ytl="577.38" xbr="622.45" ybr="627.04" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="209" keyframe="1" outside="0" occluded="0" xtl="475.35" ytl="582.95" xbr="616.35" ybr="632.61" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="210" keyframe="1" outside="0" occluded="0" xtl="471.38" ytl="584.28" xbr="612.37" ybr="633.93" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="211" keyframe="1" outside="0" occluded="0" xtl="460.51" ytl="578.97" xbr="601.50" ybr="628.63" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="212" keyframe="1" outside="0" occluded="0" xtl="465.01" ytl="582.68" xbr="606.01" ybr="632.34" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="213" keyframe="1" outside="0" occluded="0" xtl="460.77" ytl="584.28" xbr="601.77" ybr="633.93" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="214" keyframe="1" outside="0" occluded="0" xtl="470.32" ytl="587.46" xbr="611.31" ybr="637.11" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="215" keyframe="1" outside="0" occluded="0" xtl="467.67" ytl="591.43" xbr="608.66" ybr="641.09" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="216" keyframe="1" outside="0" occluded="0" xtl="464.22" ytl="585.60" xbr="605.22" ybr="635.26" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="217" keyframe="1" outside="0" occluded="0" xtl="463.42" ytl="588.78" xbr="604.42" ybr="638.44" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="218" keyframe="0" outside="0" occluded="0" xtl="473.10" ytl="597.40" xbr="614.10" ybr="647.05" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="219" keyframe="1" outside="0" occluded="0" xtl="482.78" ytl="606.01" xbr="623.77" ybr="655.67" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="220" keyframe="1" outside="0" occluded="0" xtl="476.68" ytl="591.43" xbr="617.68" ybr="641.09" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="221" keyframe="1" outside="0" occluded="0" xtl="476.41" ytl="587.99" xbr="617.41" ybr="637.64" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="222" keyframe="0" outside="0" occluded="0" xtl="481.02" ytl="584.98" xbr="623.68" ybr="637.11" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="223" keyframe="0" outside="0" occluded="0" xtl="485.62" ytl="581.98" xbr="629.96" ybr="636.58" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="224" keyframe="1" outside="0" occluded="0" xtl="490.23" ytl="578.97" xbr="636.23" ybr="636.04" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="225" keyframe="0" outside="0" occluded="0" xtl="495.53" ytl="582.29" xbr="641.53" ybr="639.36" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="226" keyframe="1" outside="0" occluded="0" xtl="500.83" ytl="585.60" xbr="646.84" ybr="642.67" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="227" keyframe="1" outside="0" occluded="0" xtl="507.19" ytl="587.72" xbr="653.20" ybr="644.79" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="228" keyframe="0" outside="0" occluded="0" xtl="505.79" ytl="589.31" xbr="653.99" ybr="646.93" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="229" keyframe="0" outside="0" occluded="0" xtl="504.40" ytl="590.90" xbr="654.79" ybr="649.06" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="230" keyframe="1" outside="0" occluded="0" xtl="503.00" ytl="592.49" xbr="655.58" ybr="651.20" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="231" keyframe="1" outside="0" occluded="0" xtl="491.07" ytl="590.11" xbr="643.65" ybr="648.81" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="232" keyframe="1" outside="0" occluded="0" xtl="468.54" ytl="594.08" xbr="621.12" ybr="652.79" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="233" keyframe="1" outside="0" occluded="0" xtl="433.55" ytl="599.12" xbr="586.13" ybr="657.83" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="234" keyframe="1" outside="0" occluded="0" xtl="394.05" ytl="603.10" xbr="546.64" ybr="661.80" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="235" keyframe="1" outside="0" occluded="0" xtl="346.07" ytl="607.60" xbr="498.66" ybr="666.31" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="236" keyframe="1" outside="0" occluded="0" xtl="297.30" ytl="612.11" xbr="449.88" ybr="670.82" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="237" keyframe="1" outside="0" occluded="0" xtl="246.40" ytl="616.35" xbr="413.03" ybr="680.40" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="238" keyframe="1" outside="0" occluded="0" xtl="223.07" ytl="618.21" xbr="389.71" ybr="682.26" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+    <box frame="239" keyframe="1" outside="0" occluded="0" xtl="203.19" ytl="616.88" xbr="369.83" ybr="680.93" z_order="0">
+      <attribute name="estado">movimiento</attribute>
+    </box>
+  </track>
+</annotations>
